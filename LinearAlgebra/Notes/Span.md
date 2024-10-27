@@ -84,16 +84,14 @@ combination equation can be restructured and the resulting vector is a straight 
 - And we can move along the line by scaling the vector that is parallel to the line.
 
 Below are the list of linear combination that can yeild same straight line.
-Notice that we can acheive same straight line with different set of vectors.
+Notice that we can achieve same straight line with different set of vectors.
 
-```math
-a + \alpha c  \\
-a + \alpha d  \\
-a + \alpha e  \\
-b + \alpha c  \\
-b + \alpha d  \\
-b + \alpha e  \\
-```
+$a + \alpha c$ \
+$a + \alpha d$ \
+$a + \alpha e$ \
+$b + \alpha c$ \
+$b + \alpha d$ \
+$b + \alpha e$
 
 Steps to know vectors that will be used for forming equation:
 - Take a vector parallel to the straight line, direction can be different

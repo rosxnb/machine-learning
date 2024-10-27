@@ -7,7 +7,6 @@
 - [Vector Subtraction Geometric Visualization](#vector-subtraction-geometric-visualization)
 - [Polynomial Are Vectors Too](#polynomials-are-vectors-too)
 - [$R^n$ As Vector](#as-vector)
-- [References](#references)
 
 # Vector
 
@@ -55,7 +54,7 @@ to emanate from the origin. This affects the visualization of vectors addition.
 
 ***a*** + ***b*** = ***c***
 
-![vectors addition visual for tip to toe](./assets/vectos_addition_tip_toe.svg)
+![vectors addition visual for tip to toe](./assets/vectors_addition_tip_toe.svg)
 
 From physics viewing point, we can move the bottom of ***b*** and put it on the tip of 
 ***a***. Then, the resultant vector ***c*** is the segment going from bottom of ***a*** 
