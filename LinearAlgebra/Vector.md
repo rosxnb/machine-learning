@@ -115,8 +115,8 @@ the resultant polynomial also has power up to $p$.
 
 The subspace for polynomial vectors can be understood as following:
 - Consider a subset of polynomials of any degree with property that
-    - all such polynomial shares a common root (solution)
-    - have a root also means that the coefficients of polynomial evaluates to zero
+    - all such polynomial shares a common root
+    - to have a root also means that the coefficients of polynomial evaluates to zero
 - Then mutiplication by scalar and addition of polynomials from that group
     - results in a polynomial that belongs in same group
     - meaning the resulting polynomical also share the same root

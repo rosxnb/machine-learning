@@ -83,6 +83,9 @@ combination equation can be restructured and the resulting vector is a straight 
 - We get to the line with any vector whose tip lies on the line.
 - And we can move along the line by scaling the vector that is parallel to the line.
 
+Below are the list of linear combination that can yeild same straight line.
+Notice that we can acheive same straight line with different set of vectors.
+
 ```math
 a + \alpha c  \\
 a + \alpha d  \\

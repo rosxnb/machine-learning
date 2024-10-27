@@ -2,6 +2,8 @@
 
 - [Vector](./Vector.md)
 - [Span](./Span.md)
+- [Subspace](./Subspace.md)
+- [Linear Decomposition](./LinearDecomposition.md)
 
 
 # REFERENCES
