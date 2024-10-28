@@ -3,10 +3,13 @@
 - [Linear Combination](#linear-combination)
 - [Span](#span)
 - [Spanning Set](#spanning-set)
+- [Dimension](#dimension)
+- [Basis](#basis)
 - [Linear Combination Observation: Coefficients Constraining](#linear-combination-observation-coefficients-constraining)
 - [Linear Combination Observation: Straight Line Equation](#linear-combination-observation-straight-line-equation)
 
-# LINEAR COMBINATION
+
+# Linear Combination
 
 Linear combination is an expression where vectors are multiplied by scalar (called 
 coefficients) and added together.
@@ -27,7 +30,7 @@ Some important terms like Closure and Vector Space are also related to linear co
     - this is known as Closure
 
 
-# SPAN
+# Span
 
 - Span can work with any number of vectors (zero, one, two, ...).
 - Span is the set of all possible linear combinations.
@@ -43,11 +46,32 @@ Some important terms like Closure and Vector Space are also related to linear co
 
 ## Spanning Set
 
+Spanning set is a set of vectors that can express any other vector in the same vector space 
+by a linear combination.
+
 - Set of vectors whose linear combination spans whole space and not just some subspace.
 - For example, (1, 2, 3) and (6, 1, 7)
     - these two vectors linear combination spans whole space of 2D plane
     - hence they are the spanning sets
 - Adding new vectors to existing spanning set is also spanning set
+- Any spanning set with the fewest number of vectors is linearly independent.
+
+
+# Dimension
+
+Dimension is the cardinality of linearly independent spanning sets.
+
+All linearly independent spanning sets, regardless of its construction, has same number of vectors. 
+For example, linearly independent spanning set $S$ in $R^2$ space has $|S| = 2$ hence, the dimensions 
+is 2. In general, linearly independent spanning set $S$ in $R^n$ space has $|S| = n$ so $n$ dimensions.
+
+
+# Basis
+
+A basis is a set where linear independence meets the property of the spanning sets.
+A basis can express any vector in its dimension uniquely.
+
+We can take cardinality of basis set to find the dimension of the space.
 
 
 ## Linear Combination Observation: Coefficients Constraining
